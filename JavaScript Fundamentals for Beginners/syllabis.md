@@ -15,11 +15,18 @@ Here is the syllabus of the fundamental course in JavaScript We welcome contribu
 ### 4- What can we do wiht JavaScript
 * [What can we do with JavaScript] (course-content/usage.md)
 
-### 4- Variable
-* [Variables and data-type] (course-content/variables.md)
+### 4- Hello World! in JavaSript
+* [Hello World app] (course-content/helloworld.html)
 
-### 5- Conditions
-* [Conditions] (course-content/conditions.md)
+### 4- Variable and Data Type
+* [Variables and data-type] (course-content/variables.md)
+* [Html File] (course-content/variables.html)
+
+### 4- Arrays
+* [Loops] (course-content/loops.md)
 
 ### 4- Loops
 * [Loops] (course-content/loops.md)
+
+### 5- Conditions
+* [Conditions] (course-content/conditions.md)
