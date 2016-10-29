@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First JS App</title>
+</head>
+<body>
+
+<script>
+    //document.write("Hello World!");
+    console.log("Hello Edia!");
+    var foo = ["red", "blue", "green", 15, 25, "kk"];
+    var person = {
+    	name: "Duplex",
+    	hight: 1.80,
+    	color: "black",
+    	greet: function(){
+    		alert("Hello!");
+    	}
+
+    };
+    
+    //foo[0];
+    // for loop syntax
+    for(var i=0; i<foo.length; i++){
+    	var digit = i+1;
+    	document.write(digit+"- "+ foo[i]);
+    	document.write("<br>");
+    }
+    
+
+    var j=0;
+    while(j<foo.length){
+    	document.write((j+1)+"- "+ foo[j]);
+    	document.write("<br>");
+    	j++
+    }
+/*
+
+1- red
+2- blue
+3- green
+4- 15
+5- 25
+6- kk
+
+*/
+
+
+</script>
+</body>
+</html>

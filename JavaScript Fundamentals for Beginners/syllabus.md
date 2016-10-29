@@ -26,6 +26,7 @@ Here is the syllabus of the fundamental course in JavaScript We welcome contribu
 
 ### 8- Arrays
 * [Loops] (course-content/loops.md)
+* [Html File] (course-content/loops.html)
 
 ### 9- Loops
 * [Loops] (course-content/loops.md)
