@@ -25,11 +25,12 @@ Here is the syllabus of the fundamental course in JavaScript We welcome contribu
 * [Html File] (course-content/variables.html)
 
 ### 8- Arrays
-* [Loops] (course-content/loops.md)
-* [Html File] (course-content/loops.html)
+* [Arrays] (course-content/array.md)
+* [Html File] (course-content/array.html)
 
 ### 9- Loops
 * [Loops] (course-content/loops.md)
+* [Html File] (course-content/loops.html)
 
 ### 10- Conditions
 * [Conditions] (course-content/conditions.md)
